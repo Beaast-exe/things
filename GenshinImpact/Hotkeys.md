@@ -15,8 +15,8 @@
 | Tab            | Abrir **Roda de Personagem**                    |
 | B              | Abrir **Inventário**                            |
 | M              | Abrir **Mapa**                                  |
-| V              | Abrir **Navegação**                             |
 | Y              | Abrir Detalhes de **Notificação**               |
+| V              | Alternar **Navegação**                          |
 | R              | Alternar Modo de Mira                           |
 | P              | **Interromper Desafio**                         |
 | X              | **Cancelar Escalada**                           |
