@@ -1,3 +1,5 @@
+## Genshin Impact - Hotkeys
+
 | Tecla          | Função                                          |
 | -------------- | ----------------------------------------------- |
 | F1             | Abrir **Livro de Aventureiro**                  |
